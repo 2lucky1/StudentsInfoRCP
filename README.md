@@ -1,0 +1,2 @@
+# StudentsInfoRCP
+Educational project
