@@ -1,5 +1,5 @@
 # StudentsInfoRCP
-<b>Educational project<b>
+<b>Educational project<b/>
 
 This project was created to: <br>
 - understand basic principles of RCP apps development<br>
